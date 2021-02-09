@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Discussion Forum](https://github.com/haideralibd/Discussion_Forum)
 
-- 🌱 I’m currently learning **Laravel and VUE JS**
+- 🌱 I’m currently learning **Laravel**
 
 - 👯 I’m looking to collaborate on **PHP or Laravel based projects**
 
