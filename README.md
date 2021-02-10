@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haider Ali</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 <p align="center">
-<a href="https://linkedin.com/in/linkedin.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/haideralibd/" height="30" width="130" /></a>
+<a href="https://www.linkedin.com/in/haideralibd/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/haideralibd/" height="30" width="130" /></a>
 <a href="https://github.com/haideralibd/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="linkedin.com/in/haideralibd/" height="30" width="130" /></a>
 
 </p>
