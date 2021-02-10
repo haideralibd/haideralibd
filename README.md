@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **PHP or Laravel based projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/haideralibd](https://github.com/haideralibd)
+- 👨‍💻 All of my projects are available at [https://github.com/haideralibd](https://github.com/haideralibd?tab=repositories)
 
 - 📫 How to reach me **haider4uiu@gmail.com**
 <hr>
