@@ -92,10 +92,6 @@ I'm genuinely curious about new technology and the science behind how things wor
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=haideralibd&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/github/followers/haideralibd?label=Followers&style=for-the-badge&color=58A6FF" alt="followers" />
   <img src="https://img.shields.io/badge/Public%20repos-17-58A6FF?style=for-the-badge" alt="public repos" />
   <img src="https://img.shields.io/badge/Contributions%20last%20year-1%2C131-58A6FF?style=for-the-badge" alt="contributions last year" />
@@ -108,6 +104,8 @@ I'm genuinely curious about new technology and the science behind how things wor
   These services are currently returning errors, so they are
   commented out to keep the profile clean:
 
+    • streak stats         -> 403 (see DenverCoder1/
+      github-readme-streak-stats issue #872)
     • github-readme-stats  -> 503 (their Vercel deployment is
       paused; see anuraghazra/github-readme-stats issue #4661)
     • activity graph       -> 402
@@ -116,6 +114,10 @@ I'm genuinely curious about new technology and the science behind how things wor
   When they recover, uncomment the blocks below. To also count
   your PRIVATE contributions, self-host github-readme-stats with
   a GitHub token and add `count_private=true`.
+
+  <p align="center">
+    <img height="170" src="https://streak-stats.demolab.com?user=haideralibd&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  </p>
 
   <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haideralibd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
